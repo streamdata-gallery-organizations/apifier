@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20035-apif
 x-kinRank: "7"
 x-alexaRank: "268783"
 tags: Apifier
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/apifier/master/_listings/apifier/apis.md
 specificationVersion: "0.14"
 apis: []
